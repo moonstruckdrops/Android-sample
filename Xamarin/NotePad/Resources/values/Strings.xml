@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">NotePad</string>
+	<string name="menu_insert">Add Note</string>
+	<string name="menu_delete">Delete Note</string>
+	<string name="title">Title</string>
+	<string name="body">Body</string>
+	<string name="confirm">Confirm</string>
+	<string name="edit_note">Edit Note</string>
+	<string name="toast_error_message">選択した内容は存在しない値です</string>
+</resources>
